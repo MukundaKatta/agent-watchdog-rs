@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Watchdog that detects stuck or stalled LLM agent loops"
 license = "MIT"
+readme = "README.md"
 repository = "https://github.com/MukundaKatta/agent-watchdog-rs"
 keywords = ["llm", "agent", "watchdog", "stall", "monitoring"]
 categories = ["development-tools"]
