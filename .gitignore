@@ -1,1 +1,4 @@
 /target
+
+# This crate is a library; the lockfile is not committed.
+Cargo.lock
